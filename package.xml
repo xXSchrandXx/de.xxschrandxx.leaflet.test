@@ -22,6 +22,7 @@
 		<instruction type="file"/>
 		<instruction type="database">acp/database/install_de.xxschrandxx.leaflet.test.php</instruction>
 		<instruction type="template"/>
+		<instruction type="language"/>
 		<instruction type="objectType"/>
 	</instructions>
 </package>
